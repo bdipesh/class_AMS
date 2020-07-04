@@ -1,0 +1,32 @@
+{
+  "name": "testEcommerce",
+  "version": "1.0.0",
+  "description": "My super-duper Nuxt.js project",
+  "author": "Dipesh",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "@nuxtjs/auth": "^4.8.5",
+    "@nuxtjs/axios": "^5.9.0",
+    "@vue/composition-api": "^0.3.4",
+    "dayjs": "^1.8.20",
+    "fs": "0.0.1-security",
+    "nuxt": "^2.0.0",
+    "vue": "latest"
+  },
+  "devDependencies": {
+    "@nuxtjs/vuetify": "^1.0.0",
+    "babel-eslint": "^10.0.3",
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-loader": "^3.0.3",
+    "eslint-plugin-prettier": "^3.1.2",
+    "eslint-plugin-vue": "^6.1.2",
+    "prettier": "^1.19.1"
+  }
+}
